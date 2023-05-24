@@ -18,7 +18,7 @@ const apiProvider = ({ baseUrl }) => {
   };
 
   const searchTerm = async (term) => {
-    const searchTermUrl = `/api/search?q=${term}&limit=5`;
+    const searchTermUrl = `/api/search?q=${term}&limit=4`;
     const response = await get({ path: searchTermUrl });
     const data = getMeliProductItem(response.data);
 
