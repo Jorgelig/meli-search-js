@@ -40,3 +40,5 @@ Start the development server:
 ![IMG](assets/seo_detail_head_title.png)
 ### Dynamic Ld JSON Detail page
 ![IMG](assets/seo_detail_ldJSON.png)
+### Performance speed insights
+![IMG](assets/performance_speed_insights.png)
