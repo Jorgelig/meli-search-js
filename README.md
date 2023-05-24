@@ -29,8 +29,7 @@ Meli Search JS is a web application built with Next.js 13 that allows users to s
 3. Usage
 Start the development server:
    ```shell
-npm run dev
-   ```
+   npm run dev
    
-Open your web browser and visit http://localhost:3000 to access the Meli Search JS application.
+4. Open your web browser and visit http://localhost:3000 to access the Meli Search JS application.
 
