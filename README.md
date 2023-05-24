@@ -33,3 +33,10 @@ Start the development server:
    
 4. Open your web browser and visit http://localhost:3000 to access the Meli Search JS application.
 
+## SEO Optimization
+### Dynamic Title and description Search page
+![IMG](assets/seo_search_head_title.png)
+### Dynamic Title and description Detail page
+![IMG](assets/seo_detail_head_title.png)
+### Dynamic Ld JSON Detail page
+![IMG](assets/seo_detail_ldJSON.png)
